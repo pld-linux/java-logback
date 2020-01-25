@@ -1,5 +1,4 @@
 %define		srcname		logback
-%include	/usr/lib/rpm/macros.java
 Summary:	A Java logging library
 Name:		java-%{srcname}
 Version:	1.0.13
